@@ -10,6 +10,6 @@ We are pleased to announce that, following the audit, **Vicuna Finance** success
 
 ## Borrow and Lending Audit by Zenith
 
-**Zenith**, a subsidiary of **Zellic**, conducted an in-depth comparison audit of **Vicuna Finance**'s lending and borrowing protocols with the **Aave v3.0.2** codebase. This audit was critical in ensuring that Zenith’s code adheres to industry best practices and operates securely and efficiently.
+**Zenith**, a subsidiary of **Zellic**, conducted an in-depth comparison audit of **Vicuna Finance**'s lending and borrowing protocols with the **Aave v3.0.2** codebase. This audit was critical in ensuring that Vicuna’s code adheres to industry best practices and is indeed 1:1 based on Aave 3.0.2.
 
 The review process included a detailed analysis of Aave's lending and borrowing protocols, risk parameters, and smart contract architecture. Additionally, Zenith’s team cross-checked and validated the parameters set by **Vicuna Finance**, including interest rate models, collateralization ratios, and other critical variables to ensure they align with the intended risk profiles and economic incentives of the platform.
